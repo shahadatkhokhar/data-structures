@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602826341 source:/home/robin/Documents/Data Structures(Abdul Bari)/diagMatrix/main.c
+	<stdio.h>
+	<stdlib.h>
+

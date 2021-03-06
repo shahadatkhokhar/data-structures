@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604976899 source:/home/robin/Documents/Data Structures(Abdul Bari)/LinkedList/main.c
+	<stdio.h>
+	<stdlib.h>
+

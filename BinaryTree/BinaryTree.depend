@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1611633119 source:/home/robin/Documents/Data Structures(Abdul Bari)/BinaryTree/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1611632583 source:/home/robin/Documents/Data Structures(Abdul Bari)/BinaryTree/Queue.h
+	<stdio.h>
+	<stdlib.h>
+

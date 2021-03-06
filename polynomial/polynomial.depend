@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604397722 source:/home/robin/Documents/Data Structures(Abdul Bari)/polynomial/main.c
+	<stdio.h>
+	<stdlib.h>
+

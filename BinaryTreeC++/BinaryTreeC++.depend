@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1611718202 source:/home/robin/Documents/Data Structures(Abdul Bari)/BinaryTreeC++/main.cpp
+	<iostream>
+	"QueueCpp.h"
+	<stdio.h>
+
+1611716459 /home/robin/Documents/Data Structures(Abdul Bari)/BinaryTreeC++/QueueCpp.h
+	<iostream>
+

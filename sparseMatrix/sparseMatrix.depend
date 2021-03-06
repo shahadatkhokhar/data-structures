@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603776812 source:/home/robin/Documents/Data Structures(Abdul Bari)/sparseMatrix/main.c
+	<stdio.h>
+	<stdlib.h>
+

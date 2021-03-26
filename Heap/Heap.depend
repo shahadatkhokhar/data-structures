@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616504918 source:/home/robin/Documents/data-structures/Heap/main.c
+	<stdio.h>
+	<stdlib.h>
+

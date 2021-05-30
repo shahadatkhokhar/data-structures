@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1619885434 source:/media/robin/Data/data-structures/Chaining/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1618808085 /media/robin/Data/data-structures/Chaining/Chains.h
+	<stdlib.h>
+
